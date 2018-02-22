@@ -1,12 +1,20 @@
 {
   "name": "rsbkp",
-  "version": "0.1.0",
-  "description": "",
-  "main": "app.js",
+  "version": "0.0.0",
+  "description": "Rsync utility intended for full, differential and incremental backups, or simply syncing files and directories.",
+  "main": "rsbkp.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": ["backup", "rsync"],
+  "repository" : { 
+     "type" : "git",
+     "url" : "https://github.com/scarafia/rsbkp.git"
+   },
+  "keywords": [
+    "bkp",
+    "backup",
+    "rsync"
+  ],
   "author": "scarafia",
   "license": "ISC"
 }
