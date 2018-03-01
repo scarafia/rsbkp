@@ -1,6 +1,6 @@
 {
   "name": "rsbkp",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Rsync utility intended for full, differential and incremental backups, or simply syncing files and directories.",
   "main": "rsbkp.js",
   "scripts": {
